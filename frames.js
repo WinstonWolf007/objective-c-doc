@@ -932,8 +932,13 @@ const frames = [
         "code", "title", "describle"
     ),
 ]
+///////////////////
+// frame -1  = START
 
 let framesIdx = -1;
+
+//
+////////////////////
 
 function leftFrame() {
     if (frames[framesIdx].writeCode.finish) {
