@@ -6,7 +6,6 @@ html, body {
     overflow: hidden;
 }
 code {
-    overflow-x: hidden;
     position: absolute;
     top: 0;
     font-size: 20px;

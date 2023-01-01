@@ -28,7 +28,7 @@ class WriteCode {
                 idx_2++;
                 await this.#sleep();
             }
-            input.innerHTML = input.innerHTML + "\n";
+            input.innerHTML = input.innerHTML + "\t\t\t\n";
             idx_1++;
         }
         input.innerHTML = input.innerHTML + "\n\n";
