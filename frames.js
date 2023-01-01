@@ -933,7 +933,7 @@ const frames = [
     ),
 ]
 
-let framesIdx = 26;
+let framesIdx = -1;
 
 function leftFrame() {
     if (frames[framesIdx].writeCode.finish) {
